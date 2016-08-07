@@ -5,3 +5,5 @@ Use this project if you just want to do a "git log" and see a few comments, or d
     $ git log
     $ git branch
 
+Adding crazy stuff in "crazy" branch!
+
